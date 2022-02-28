@@ -1,8 +1,10 @@
-package com.example.exampleappmvvm;
+package com.example.exampleappmvvm.activty;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.exampleappmvvm.R;
 
 public class MainActivity extends AppCompatActivity {
 
